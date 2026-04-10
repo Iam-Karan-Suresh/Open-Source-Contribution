@@ -14,6 +14,13 @@
   🔗 [https://github.com/controlplaneio-fluxcd/flux-operator/pull/631](https://github.com/controlplaneio-fluxcd/flux-operator/pull/631)
 
 ---
+### Flux2
+
+* Handled multiple symlinks to same target in build artifact
+  🔗 .[https://github.com/fluxcd/flux2/pull/5833](https://github.com/fluxcd/flux2/pull/5833)
+
+
+---
 
 ### FluxCD Pkg
 
