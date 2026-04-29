@@ -19,6 +19,8 @@
 * Handled multiple symlinks to same target in build artifact
   🔗 .[https://github.com/fluxcd/flux2/pull/5833](https://github.com/fluxcd/flux2/pull/5833)
 
+* Add digest pinning support to flux plugin install
+  🔗 .[https://github.com/fluxcd/flux2/pull/5872](https://github.com/fluxcd/flux2/pull/5872)
 
 ---
 
