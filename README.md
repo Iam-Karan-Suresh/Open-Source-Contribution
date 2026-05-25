@@ -32,7 +32,8 @@
 * Refactored: moved `DependencyReference` to `apis/meta`
   🔗 [https://github.com/fluxcd/pkg/pull/1129](https://github.com/fluxcd/pkg/pull/1129)
 
----
+* fix(tools): respect manual major version bumps in go.mod
+  🔗 [https://github.com/fluxcd/pkg/pull/1217](https://github.com/fluxcd/pkg/pull/1217)
 
 ### Kustomize Controller
 
