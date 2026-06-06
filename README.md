@@ -13,6 +13,9 @@
 * Added command to generate Flux Web config secret
   🔗 [https://github.com/controlplaneio-fluxcd/flux-operator/pull/631](https://github.com/controlplaneio-fluxcd/flux-operator/pull/631)
 
+* docs: add WithPrivileges usage documentation
+  🔗 [https://github.com/controlplaneio-fluxcd/flux-operator/pull/883](https://github.com/controlplaneio-fluxcd/flux-operator/pull/883)
+
 ---
 ### Flux2
 
