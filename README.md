@@ -38,6 +38,9 @@
 * fix(tools): respect manual major version bumps in go.mod
   🔗 [https://github.com/fluxcd/pkg/pull/1217](https://github.com/fluxcd/pkg/pull/1217)
 
+* test: adding test cases for impersonator
+  🔗 [https://github.com/fluxcd/pkg/pull/1241](https://github.com/fluxcd/pkg/pull/1241)
+
 ### Kustomize Controller
 
 * Emitted recovery event when reconciliation succeeds after failure
