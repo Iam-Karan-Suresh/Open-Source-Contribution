@@ -60,6 +60,10 @@
 * docs: add SDK development guide to GitOps Toolkit documentation
   🔗 [https://github.com/fluxcd/website/pull/2574](https://github.com/fluxcd/website/pull/2574)
 
+* docs: adding oci-repository use-cases documentation
+  🔗 [https://github.com/fluxcd/website/pull/2578](https://github.com/fluxcd/website/pull/2578)
+  
+
 
 ## ORAS Contributions
 
