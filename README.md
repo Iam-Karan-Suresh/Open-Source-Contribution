@@ -55,6 +55,10 @@
   🔗 [https://github.com/fluxcd/helm-controller/pull/1428](https://github.com/fluxcd/helm-controller/pull/1428)
 
 ---
+### FluxCD-Website
+
+* docs: add SDK development guide to GitOps Toolkit documentation
+  🔗 [https://github.com/fluxcd/website/pull/2574](https://github.com/fluxcd/website/pull/2574)
 
 ## ORAS Contributions
 
