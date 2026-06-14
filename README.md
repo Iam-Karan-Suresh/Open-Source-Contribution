@@ -63,6 +63,10 @@
 * docs: adding oci-repository use-cases documentation
   🔗 [https://github.com/fluxcd/website/pull/2578](https://github.com/fluxcd/website/pull/2578)
 
+* docs: add HelmRelease values override examples
+  🔗 [https://github.com/fluxcd/website/pull//2579](https://github.com/fluxcd/website/pull/2579)
+
+
 ---
 
 ## ORAS Contributions
