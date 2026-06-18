@@ -66,6 +66,10 @@
 * docs: add HelmRelease values override examples
   🔗 [https://github.com/fluxcd/website/pull//2579](https://github.com/fluxcd/website/pull/2579)
 
+* docs: [Flux End-to-End] Gitless GitOps
+  🔗 [https://github.com/fluxcd/website/pull/2578](https://github.com/fluxcd/website/pull/2578)
+  issue: 🔗[https://github.com/fluxcd/website/issues/2492#issuecomment-4736647945](https://github.com/fluxcd/website/issues/2492#issuecomment-4736647945)
+  
 
 ---
 
