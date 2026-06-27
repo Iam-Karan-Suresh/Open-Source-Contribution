@@ -60,6 +60,9 @@
 ---
 ### FluxCD-Website
 
+* Adding documentation for CRD categories
+  🔗 [https://github.com/fluxcd/website/pull/2592](https://github.com/fluxcd/website/pull/2592)
+  
 * docs: add SDK development guide to GitOps Toolkit documentation
   🔗 [https://github.com/fluxcd/website/pull/2574](https://github.com/fluxcd/website/pull/2574)
 
