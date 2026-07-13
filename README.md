@@ -56,7 +56,7 @@
 
 * ci: split e2e workflow into smaller parallel jobs
   🔗 [https://github.com/fluxcd/helm-controller/pull/1528](https://github.com/fluxcd/helm-controller/pull/1528)
-* 
+  
 * Emitted recovery event when reconciliation succeeds after failure
   🔗 [https://github.com/fluxcd/helm-controller/pull/1428](https://github.com/fluxcd/helm-controller/pull/1428)
 
