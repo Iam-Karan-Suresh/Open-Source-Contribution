@@ -47,6 +47,9 @@
 * Emitted recovery event when reconciliation succeeds after failure
   🔗 [https://github.com/fluxcd/kustomize-controller/pull/1608](https://github.com/fluxcd/kustomize-controller/pull/1608)
 
+* ci: parallelize e2e job to speed it up
+  🔗 [https://github.com/fluxcd/kustomize-controller/pull/1705](https://github.com/fluxcd/kustomize-controller/pull/1705)
+
 ---
 
 ### Helm Controller
